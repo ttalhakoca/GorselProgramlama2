@@ -1,0 +1,16 @@
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\bin\Debug\net8.0-windows\Hafta2.exe
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\bin\Debug\net8.0-windows\Hafta2.deps.json
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\bin\Debug\net8.0-windows\Hafta2.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\bin\Debug\net8.0-windows\Hafta2.dll
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\bin\Debug\net8.0-windows\Hafta2.pdb
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\obj\Debug\net8.0-windows\Hafta2.Form1.resources
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\obj\Debug\net8.0-windows\Hafta2.csproj.GenerateResource.cache
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\obj\Debug\net8.0-windows\Hafta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\obj\Debug\net8.0-windows\Hafta2.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\obj\Debug\net8.0-windows\Hafta2.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\obj\Debug\net8.0-windows\Hafta2.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\obj\Debug\net8.0-windows\Hafta2.dll
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\obj\Debug\net8.0-windows\refint\Hafta2.dll
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\obj\Debug\net8.0-windows\Hafta2.pdb
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\obj\Debug\net8.0-windows\Hafta2.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\TalhaUnity\Hafta2\Hafta2\obj\Debug\net8.0-windows\ref\Hafta2.dll
