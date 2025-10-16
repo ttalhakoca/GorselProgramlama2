@@ -1,0 +1,16 @@
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\bin\Debug\net8.0-windows\Hafta4_1.exe
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\bin\Debug\net8.0-windows\Hafta4_1.deps.json
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\bin\Debug\net8.0-windows\Hafta4_1.runtimeconfig.json
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\bin\Debug\net8.0-windows\Hafta4_1.dll
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\bin\Debug\net8.0-windows\Hafta4_1.pdb
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\obj\Debug\net8.0-windows\Hafta4_1.Form1.resources
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\obj\Debug\net8.0-windows\Hafta4_1.csproj.GenerateResource.cache
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\obj\Debug\net8.0-windows\Hafta4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\obj\Debug\net8.0-windows\Hafta4_1.AssemblyInfoInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\obj\Debug\net8.0-windows\Hafta4_1.AssemblyInfo.cs
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\obj\Debug\net8.0-windows\Hafta4_1.csproj.CoreCompileInputs.cache
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\obj\Debug\net8.0-windows\Hafta4_1.dll
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\obj\Debug\net8.0-windows\refint\Hafta4_1.dll
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\obj\Debug\net8.0-windows\Hafta4_1.pdb
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\obj\Debug\net8.0-windows\Hafta4_1.genruntimeconfig.cache
+C:\Users\musta\OneDrive\Masaüstü\Görsel Programlama2\Hafta4_1\Hafta4_1\obj\Debug\net8.0-windows\ref\Hafta4_1.dll
